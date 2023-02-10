@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VSeyha
 - 👀 I’m interested in fullstack developer.
-- 🌱 I’m currently learning backend developer
-- 📫 How to reach me 
+- 🌱 I’m  junior backend developer
+
 
 <!---
 VSeyha/VSeyha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
